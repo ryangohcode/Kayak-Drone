@@ -1,0 +1,5 @@
+To run usb relay
+1) start with "sudo python usb_relay_service.py"
+
+to test
+1) run "python usb_relay_client.py"
